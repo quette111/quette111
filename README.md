@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
-- 🔭 I’m currently working on **Customer Relationship Management (CRM) for an E-Commerce Website project**
+- 🔭 I’m currently working on **Social Media Clone Web Application**
 
 - 🌱 I’m currently learning **Node JS**
 
