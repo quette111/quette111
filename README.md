@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node.js/Express**
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
 
