@@ -11,7 +11,7 @@
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
 
-- 📫 How to reach me **quettehanson@gmail.com**
+- 📫 How to reach me: **quettehanson@gmail.com**
 
 - * Actively learning! *
 
