@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
-- 🔭 I’m currently working on **my personal portfolio website**
-
 - 🌱 I’m currently learning **Node.js/Express**
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
