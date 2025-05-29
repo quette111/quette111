@@ -1,6 +1,7 @@
 ![Header](gitQQ.png)
 <h1 align="center"> 👋👋👋 </h1>
-<h3 align="center">Developer from the Raleigh-Durham-Chapel Hill area!</h3>
+<h3 align="center">I'm a self-taught full-stack developer from North Carolina. I love building practical tools and solving real-world problems.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
