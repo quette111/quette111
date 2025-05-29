@@ -1,6 +1,6 @@
 ![Header](gitQQ.png)
 <h1 align="center"> 👋👋👋 </h1>
-<h3 align="center">I'm a self-taught full-stack developer from North Carolina. I love all things software!
+<h3 align="center">I'm a self-taught developer from North Carolina. I love all things software!
 </h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
