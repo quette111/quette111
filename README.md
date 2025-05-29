@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently working on a full stack CRUD web application!**
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
 
