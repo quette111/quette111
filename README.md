@@ -10,7 +10,7 @@
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
 
-- 📫 How to reach me: **quettehanson@gmail.com**
+- 📫 How to reach me: **marquette.hanson@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
