@@ -31,9 +31,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/marquettehanson" target="_blank">![github-header-image](https://github.com/user-attachments/assets/2ba2886f-44bd-401d-84a9-407651c65c91)
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/marquettehanson" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
 
