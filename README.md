@@ -1,4 +1,4 @@
-![Header](github-header-image.png)
+![Image](https://github.com/user-attachments/assets/0905ef48-0288-47e2-b126-00937ea7cb5a)
 <h1 align="center"> 👋👋👋 </h1>
 <h3 align="center">I'm a self-taught developer from North Carolina. I love all things software!
 </h3>
