@@ -1,8 +1,9 @@
-![Header](gitQQ.png)
+![Header](github-header-image.png)
 <h1 align="center"> 👋👋👋 </h1>
 <h3 align="center">I'm a self-taught developer from North Carolina. I love all things software!
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
 - 🌱 I’m currently building a full stack job tracking web app with CRUD functionality and user authentication!**
 
