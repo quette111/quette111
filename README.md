@@ -7,7 +7,7 @@
 
 - 🌱I’m currently refining my full-stack app, jobLog, by adding AI-powered features and data visualizations
 
-- - ⚡ Fun fact **I have run a mile in under four minutes!**
+-  ⚡ Fun fact **I have run a mile in under four minutes!**
 
 - 📫 How to reach me: **marquette.hanson@gmail.com**
 
