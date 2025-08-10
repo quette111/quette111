@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
-- 🌱 I’m currently building a full stack job tracking web app with CRUD functionality and user authentication!**
+- 🌱I’m currently refining my full-stack app, jobLog, by adding AI-powered features and data visualizations**
 
 - - ⚡ Fun fact **I have run a mile in under four minutes!**
 
