@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quette111&label=Profile%20views&color=0e75b6&style=flat" alt="quette111" /> </p>
 
-- 🌱I’m currently refining my **full-stack** app, jobLog, by adding **AI**-powered features and **data visualizations & starting my first React application**
+- 🌱I’m currently working on a MERN stack Ecommerce website, KickBack**
 
 -  ⚡ Fun fact **I have run a mile in under four minutes!**
 
