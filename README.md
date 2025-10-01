@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/1c12b3eb-7dd4-4636-8ba4-cfb4f6cec263)
-<h1 align="center"> Hey there 👋🏽 </h1>
+<h1 align="center"> Hey ! 👋🏽 </h1>
 <h3 align="center">I'm a developer from North Carolina. I love all things software!
 </h3>
 
